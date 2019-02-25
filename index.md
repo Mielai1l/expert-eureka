@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+## Tools
 
-You can use the [editor on GitHub](https://github.com/Mielai1l/expert-eureka/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Some tools and sites which can help with sysadmin tasks.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# SSL/TLS
+- SSL Server Test https://www.ssllabs.com/ssltest/
+- https://www.ssllabs.com/projects/documentation/
+- Certificate Search https://crt.sh/
+- KeyChest finds your keys and audits your servers https://keychest.net/
+- Qualys has something similar: Certificate View free
 
-### Markdown
+# Linux
+- needrestart checks which daemons need to be restarted after library upgrades.
+ It is inspired by checkrestart from the debian-goodies package.
+ sudo apt-get install needrestart
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Browser add-ons
+- https://addons.mozilla.org/en-US/firefox/addon/contextual-search/
+- https://addons.mozilla.org/nl/firefox/addon/base64-decoder/
+- https://addons.mozilla.org/nl/firefox/addon/copy-page-title-and-url/
+- https://addons.mozilla.org/en-US/firefox/addon/noscript/
+- https://addons.mozilla.org/nl/firefox/addon/ublock-origin/
+- https://addons.mozilla.org/nl/firefox/addon/wayback-machine_new/
+- https://addons.mozilla.org/en-US/firefox/addon/web-developer/
+- https://chrome.google.com/webstore/detail/removecookiesforsite/lmfdblomdpkcniknaenceeogpgepocmm
 
-```markdown
-Syntax highlighted code block
+# Dev
+- Restlet Client is designed and developed by developers for developers to make REST API testing and automation easy
+https://client.restlet.com/#about
 
-# Header 1
-## Header 2
-### Header 3
+# Configuring your own computer
+- https://dotfiles.github.io/
+- ellipsis, the dot file package manager: https://ellipsis.sh/ : https://github.com/ellipsis/ellipsis : http://docs.ellipsis.sh/en/master/
+- i3 window manager -> everything is a keystroke: https://github.com/groggemans/dot-i3 : https://i3wm.org/
+- tmux, the terminal multiplexer: https://github.com/groggemans/dot-tmux : https://wiki.archlinux.org/index.php/tmux
+- tmux basics, tmux + vim : https://github.com/christoomey/vim-tmux-navigator
+- iterm2: https://www.iterm2.com/
 
-- Bulleted
-- List
+# Documenting
+- Record and share your terminal sessions, the right way. https://asciinema.org/
 
-1. Numbered
-2. List
+# Vi
+- Plugins https://vimawesome.com/ 
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mielai1l/expert-eureka/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
