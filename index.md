@@ -9,6 +9,13 @@ Some tools and sites which can help with sysadmin tasks.
 - KeyChest finds your keys and audits your servers https://keychest.net/
 - Qualys has something similar: Certificate View free
 
+# Phishing etc
+- https://www.virustotal.com 
+- https://www.ncsc.nl/actueel/beveiligingsadviezen (in dutch)
+- https://safebrowsing.google.com/safebrowsing/report_badware/
+- https://safebrowsing.google.com/safebrowsing/report_phish
+- https://www.phishtank.com/
+
 # Passwords
 - a password manager https://www.passwordstore.org/ 
 - pwgen generates random, meaningless but pronounceable passwords.
